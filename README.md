@@ -1,1 +1,1 @@
-# quiz-spark
+# quiz_spark
